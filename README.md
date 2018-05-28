@@ -1,2 +1,2 @@
 # Sort
-Different sorting algorithms implementations
+Merge sort and quick sort implemented for school assignment
